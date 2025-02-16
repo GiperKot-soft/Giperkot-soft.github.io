@@ -1,0 +1,1259 @@
+{
+  "apps": [
+    {
+      "title": "Aurora store LATEST",
+      "description": "Альтернативный магазин приложений, который в фоновом режиме подключается к Google Play.",
+      "url": "https://www.auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
+      "app_review": "https://youtube.com/watch?v=jdGk1RvPm7c",
+      "mirror": "aurora",
+      "category": "Маркеты",
+      "ver": "LATEST"
+    },
+    {
+      "title": "Aptoide ATV LATEST",
+      "description": "Адаптированный для ATV альтернативный магазин приложений.",
+      "url": "https://www.dropbox.com/scl/fi/1gb3shaksax7kwcbafk9g/aptoidetv-5.3.1.apk?rlkey=5qrnrzmwk0fzuydl4w8dkzu0y&st=ok1e7syu&dl=1",
+      "mirror": "aptoid",
+      "ver": "LATEST",
+      "category": "Маркеты"
+    },
+    {
+      "title": "Universal Aptoide ATV/FireOS",
+      "description": "Aptoide TV предлагает магазин приложений, оптимизированный для устройств с большим экраном, таких как телевизоры с высоким разрешением. Это означает, что вы можете использовать Aptoide не только на мобильных устройствах, но и с удобством, сидя на диване.",
+      "url": "https://www.dropbox.com/scl/fi/143vj5lihhoohzj66aai2/AptoideTV-5.1.2.apk?rlkey=y5nusi99knjg574xq9obhe0hz&dl=1",
+      "mirror": "aptoideatvfireos",
+      "category": "Маркеты",
+      "ver": "5.1.2"
+    },
+    {
+      "title": "APKPure TV",
+      "description": "APKPure App — это альтернативный магазин приложений. Позволяет искать APK-файлы игр и приложений и устанавливать их на ваше устройство без использования официального магазина Google Play.\nВозможности:\n— Хороший дизайн и небольшой размер приложения;\n— Разделение игр и приложений по категориям: популярное, рекомендуемое, игры, приложения, обновления (для вашего устройства);\n— Поиск по названию игры, приложения, разработчику;\n— Загрузка приложений, которые могут отсутствовать в (Google Play) для вашей страны;\n— Довольно быстрая загрузка APK-файлов и простая установка.\n 🖲️НЕОБХОДИМА МЫШЬ",
+      "url": "https://www.dropbox.com/scl/fi/sw4yxbdg8a46wklf2j425/APKPure_TV-3.20.33-noArch-fix.apk?rlkey=ft6s1lmigk4qom8tzhewshn9f&dl=1",
+      "mirror": "APKPure",
+      "ver": "3.20.33",
+      "category": "Маркеты"
+    },
+    {
+      "title": "Viewbox",
+      "description": "✳️ ViewBox — это популярное, легкое онлайн-кино для вашего Android TV. Бесплатный доступ к хорошей базе с качественным контентом.\n✳️ Мощное и простое в использовании приложение для просмотра онлайн-медиа на Android TV и приставках.\n✳️ Установив приложение, вы получите доступ к большому количеству популярных фильмов, сериалов и мультфильмов в отличном качестве.\n✳️ Есть возможность скачивания с выбором качества видео (от 144 до 2160).\n✳️ Оригинальная версия + мод без рекламы.\n⭐️ ВАЖНО\n⚠️ PS Если при запуске пишет: «нет интернета» (или что-то подобное), зайдите в НАСТРОЙКИ ➡️ ИСПОЛЬЗОВАТЬ ПРИНУДИТЕЛЬНО ДРУГОЙ DNS ➡️ и поставьте галочку ☑️",
+      "url": "https://www.dropbox.com/scl/fi/ibgqwqr9cr7aq901a0lsc/ViewBox-2.0.0-alpha.4-8388612.apk?rlkey=bz3ah0fxuoqp9ihbuyqgoonrn&dl=1",
+      "mirror": "viewbox",
+      "ver": "2.0.0",
+      "category": "Кино"
+    },
+    {
+      "title": "New Digital Release",
+      "description": "Обновленная версия NDR для Android TV.",
+      "url": "https://www.dropbox.com/scl/fi/lxm345w2mhluirw2y76ta/NewDigital-Releases-0.77.apk?rlkey=940drbujvgikdgg8p7ysoy8b7&dl=1",
+      "mirror": "NewDigitalRelease",
+      "ver": "0.77",
+      "category": "Кино"
+    },
+    {
+      "title": "Video Screensaver Pro",
+      "description": "Скринсейвер для Android TV. Happymod",
+      "url": "https://robyivanov.github.io/my_robbyinstaller/Video_Screensaver_Pro.apk",
+      "mirror": "ScreensaverPro",
+      "category": "Скринсейверы",
+      "ver": "999"
+    },
+    {
+      "title": "Starflield Live wallpaper",
+      "description": "Скринсейвер для Android TV",
+      "url": "https://www.dropbox.com/scl/fi/pwop2si8q84emmyfyxuaj/Starfield-TV-Live-Wallpaper-1.0.11.apk?rlkey=4lgbvbhtvnm6uraln48ekolg4&dl=1",
+      "mirror": "Starfield",
+      "category": "Скринсейверы",
+      "ver": "1.0.11"
+    },
+    {
+      "title": "VLC плеър ATV",
+      "description": "VLC плеер для AndroidTV",
+      "url": "https://www.dropbox.com/scl/fi/l4fs2o9skiih9i4jrbc6p/VLC-3.4.4.apk?rlkey=uqkbdo3u6obqj4y25rl6msnz5&dl=1",
+      "mirror": "vlcatv",
+      "ver": "3.4.4",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "Analiti",
+      "description": "Многофункциональный тестер скорости интернета, анализатор Wi-Fi, iPerf и др. Модифицированная версия.",
+      "url": "https://www.dropbox.com/scl/fi/xjmx8x2lrilzj5yks1xyo/analiti-v2024.11.83518.apk?rlkey=3v9etankymhmla6bbtp8pw3bg&dl=1",
+      "mirror": "analiti",
+      "ver": "2024.11.83518",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Speedtest",
+      "description": "Тест скорости интернета. Модифицированная версия.",
+      "url": "https://www.dropbox.com/scl/fi/wmmb7qc7zsi75o43bcrr0/Speedtest_TV-5.5.4-arm-v7a.apk?rlkey=pw6so4oet1iz7k1p9t6gyq17c&dl=1",
+      "mirror": "Speedtest",
+      "ver": "5.5.4",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Button Mapper",
+      "description": "Настройка дополнительных функций кнопок пульта. Не работает для кнопок \"NETFLIX\", \"Live\" или \"prime\". Модифицированная версия.",
+      "mirror": "ButtonMapper",
+      "app_review": "https://youtu.be/sDsZieZufw4",
+      "url": "https://www.dropbox.com/scl/fi/wnmwjnrm2y1pmb60fim3k/Button_Mapper_3.26-Pro.apk?rlkey=y6cldq2tr2p6kbxhh55r0100s&dl=1",
+      "ver": "3.26",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Lampa",
+      "description": "Приложение для просмотра онлайн-фильмов, торрентов (через TorrServe) на Smart TV и Android TV. Позволяет смотреть сериалы, мультфильмы. Похоже на vplay, но также есть подбор фильмов по актерам и возможность добавлять контент в закладки. Важно! Для просмотра торрентов нужно активировать парсер в настройках (раздел Парсер) и установить/настроить TorrServer. Можно использовать Jackett парсер. Поиск торрентов — Rutor, Kinozal, Rutracker, TorrentBY, NnmClub. Плееры — Kodi (для рус. или болгарских субтитров), Vimu, MX Player, VLC, Nova, BSP.",
+      "url": "https://www.dropbox.com/scl/fi/tpce285kqc8x3np46it68/LAMPA-v1.9.4.apk?rlkey=5rzefyu08gb1ptfgslqur6u0t&dl=1",
+      "app_review": "https://www.youtube.com/playlist?list=PLoIMtcckkf-NmqeWF8YU_VPCoSP1wP6BC",
+      "mirror": "lampa",
+      "ver": "1.9.4",
+      "category": "Стриминг"
+    },
+    {
+      "title": "TorrServe",
+      "description": "Приложение для просмотра ТВ, фильмов и сериалов из торрентов без загрузки, при помощи NUM, Lampa, LazyMediaDeluxe и других.",
+      "url": "https://www.dropbox.com/scl/fi/vdygfb5xo07o4fv8tqs9q/TorrServe_MatriX.135.Client-release.apk?rlkey=vkzxb7i2uqrrv7hztfp54vgem&dl=1",
+      "mirror": "TorrServe",
+      "ver": "135",
+      "category": "Стриминг"
+    },
+    {
+      "title": "FilmPlus",
+      "description": "Приложение для просмотра онлайн-фильмов и сериалов.",
+      "url": "https://www.dropbox.com/scl/fi/lndcgy0b3v79ged3iunwa/FilmPlus-v2.2.2r_131.apk?rlkey=269c1ijrs31n461vm8gnvcg7e&dl=1",
+      "mirror": "FilmPlus",
+      "ver": "2.2.2",
+      "category": "Кино"
+    },
+    {
+      "title": "ViMu Media Player",
+      "description": "Лучший плеер для Android TV. Модифицированная версия. НАЖМИТЕ И УДЕРЖИВАЙТЕ КНОПКУ ОК ДЛЯ ОБЗОРА ПРОГРАММЫ",
+      "url": "https://www.dropbox.com/scl/fi/tmfynxi7h7uevt7j98i0m/Vimu-Media-Player_10.83.apk?rlkey=wuchkugfa11557travgclh1j6&dl=1",
+      "app_review": "https://www.youtube.com/playlist?list=PLoIMtcckkf-NgL7-Cj49iZgk9U3lGzdAU",
+      "mirror": "Vimu",
+      "ver": "10.83",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "X-plore",
+      "description": "Один из лучших файловых менеджеров. НАЖМИТЕ И УДЕРЖИВАЙТЕ КНОПКУ ОК ДЛЯ ОБЗОРА ПРОГРАММЫ",
+      "url": "https://www.dropbox.com/scl/fi/4ccj9lken5g7voj1jhmww/X-plore-v4.41.00-MOD.apk?rlkey=aiytycxlaahyrdmr3ah06hkzl&dl=1",
+      "mirror": "x-plore",
+      "ver": "4.41.00",
+      "app_review": "https://youtu.be/s176z65mzEE",
+      "category": "Инструменты"
+    },
+    {
+      "title": "tvQuickActions",
+      "description": "tvQuickActions — программа для переназначения кнопок, специально разработанная для ТВ-устройств. Поддерживает Android TV, Google TV и AOSP на большинстве устройств. Одна из ключевых функций — возможность назначить до 5 действий на одну кнопку на пульте и добавить множество полезных функций вашему устройству.",
+      "url": "https://www.dropbox.com/scl/fi/n7mydw3ocg0b0erhwfogv/tvQuickActions-PRO-v3.5.4.apk?rlkey=2v97ajr2pw88w99fc1nq9brp3&dl=1",
+      "mirror": "tvQuickActions",
+      "app_review": "https://www.youtube.com/watch?v=_Eb_X4dmGkk",
+      "ver": "3.5.4",
+      "category": "Инструменты"
+    },
+    {
+      "title": "TiviMate",
+      "description": "С TiviMate вы можете смотреть телеканалы в прямом эфире от вашего IPTV-провайдера на Android-приставке или Android TV.\n\nОсновные функции:\n• Современный интерфейс, предназначенный для больших экранов\n• Поддержка нескольких плейлистов\n• Запланированное обновление телепрограммы\n• Избранные каналы\n• Функция Catch-up\n• Поиск\n• И многое другое",
+      "url": "https://www.dropbox.com/scl/fi/qpzy31vp4gdmgrv6bbohg/TiviMate-5.1.6.apk?rlkey=2n0bm6z4iwn5l25043xt7domm&dl=1",
+      "mirror": "tivimate",
+      "ver": "5.1.6",
+      "category": "IPTV"
+    },
+    {
+      "title": "LazyMediaDeluxe Pro",
+      "description": "Обширный каталог фильмов и сериалов, агрегатор торрентов без ограничений. Имеется поддержка ATV и TV Box.",
+      "url": "https://www.dropbox.com/scl/fi/9zdh5pyjcy8ggezu7pm4h/LazyMedia-Deluxe-Pro-v3.356.apk?rlkey=lihngs4rr2ib4oqb50y5lkvsb&dl=1",
+      "mirror": "lazymedia",
+      "ver": "3.356",
+      "category": "Кино"
+    },
+    {
+      "title": "NUM",
+      "description": "Онлайн-кинотеатр, который ищет в торрент-трекерах. Для просмотра вам потребуется торрент-движок, такой как TorrServe, и плеер, например Kodi.",
+      "url": "https://www.dropbox.com/scl/fi/t9amf8gc7yewaql5sxhk5/NUM_1.0.130-release.apk?rlkey=mbca253b55f1kuqd0pzc1vsqa&dl=1",
+      "mirror": "num",
+      "ver": "1.0.130",
+      "app_review": "https://www.youtube.com/watch?v=5LcmAIBmBPg",
+      "category": "Кино"
+    },
+    {
+      "title": "OTT-play",
+      "description": "Минималистичный IPTV-плеер. Интерфейс практически отсутствует. Нужен ваш плейлист!",
+      "url": "https://www.dropbox.com/scl/fi/7t68iufb78i8rcbyfjn2c/ott-play-2.17.apk?rlkey=camdc9cqbtkenpk54uznuaouw&dl=1",
+      "mirror": "ott-play",
+      "ver": "2.17",
+      "category": "IPTV"
+    },
+    {
+      "title": "Puffin Browser",
+      "description": "Браузер для ATV",
+      "url": "https://www.dropbox.com/scl/fi/2ntflu7lt3jzopo0paqix/Puffin-Browser-Pro.apk?rlkey=lh74mo2vspe6mbnsl4w6q8554&dl=1",
+      "mirror": "puffin",
+      "app_review": "",
+      "ver": "pro",
+      "category": "Браузеры"
+    },
+    {
+      "title": "Browser for ATV",
+      "description": "Браузер для ATV",
+      "url": "https://www.dropbox.com/scl/fi/tk581riiv3g9py7zhw0sm/Browser-Android-TV-v2.0.3-Premium.apk?rlkey=4gfdhtsneh05wbalg46mp3zek&dl=1",
+      "mirror": "browserfortv",
+      "app_review": "",
+      "ver": "2.0.3",
+      "category": "Браузеры"
+    },
+    {
+      "title": "Set Orientation",
+      "description": "Поворот экрана для «телефонных» приложений.",
+      "url": "https://www.dropbox.com/scl/fi/vaamhgsqoy6cbz3gyvbut/Set-Orientation-1.1.4.apk?rlkey=wf4y0c23kyh48e32j9qk8ckuh&dl=1",
+      "mirror": "setorientation",
+      "ver": "1.1.4",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Send Files To Tv MOD",
+      "description": "SFTTV — простое приложение для передачи файлов на Android TV, мобильное устройство Android и ваш ПК. Позволяет быстро и легко передавать файлы и клипы между устройствами. Работает через локальную сеть, интернет не нужен.",
+      "mirror": "sendfilestotv",
+      "ver": "1.3.8",
+      "url": "https://www.dropbox.com/scl/fi/xfutc1dddageyivhtp0nw/Send-files-to-TV-1.3.8.apk?rlkey=tvpc46x0pbfqe5tb4t42a1k0a&dl=1",
+      "category": "Инструменты"
+    },
+    {
+      "title": "IPTV-Pro",
+      "description": "Классический «синий» IPTV-плеер, простой и удобный в использовании. Нужен ваш плейлист. Модифицированная версия.",
+      "url": "https://www.dropbox.com/scl/fi/h73fdw9d8wh523dhz7mw2/IPTV-Pro-v9.0.3.apk?rlkey=d9n9gckr0yrxjdujqonn3imk0&dl=1",
+      "mirror": "iptvpro",
+      "ver": "9.0.3",
+      "category": "IPTV"
+    },
+    {
+      "title": "Easy Fire Tools",
+      "description": "С помощью этого приложения легко устанавливать (sideload) приложения на Amazons FireTv или другие Android-устройства прямо с телефона/планшета.\n\nФункции:\n- Установка (sideload) приложений на FireTV и другие Android-устройства\n- Создание скриншотов и записей экрана с устройства",
+      "url": "https://www.dropbox.com/scl/fi/jx77tjbv4d27tpz5pq7qf/EasyFireTools_v1.1.8.apk?rlkey=2ve33sw9icesm15p8r2o4o8yn&st=1vjbmpn4&dl=1",
+      "mirror": "easyfiretools",
+      "ver": "1.1.8",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Mi Box Button Remapper",
+      "description": "Mi Box Button Remapper — переназначение кнопки Netflix на пульте управления устройств Xiaomi Mi Box. Инструкции внутри приложения. Внимание! После установки сначала нужно обновить приложение в Google Play, а потом делать настройки!",
+      "url": "https://dradler.pp.ru/apps/MiBox_Button_Remapper.apk",
+      "mirror": "mibbr",
+      "ver": "0",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Easy Fire Tools",
+      "description": "С помощью этого приложения легко устанавливать (sideload) приложения на Amazons FireTv или другие Android-устройства прямо с телефона/планшета.\n\nФункции:\n- Установка (sideload) приложений на FireTV и другие Android-устройства\n- Создание скриншотов и записей экрана с устройства",
+      "url": "https://www.dropbox.com/scl/fi/lv6v5aflesp8mx9txbzpo/EasyFireTools-1.1.7-1.apk?rlkey=bzp1q6ji2zo0q582nkpau94aa&dl=1",
+      "mirror": "easyfiretools",
+      "ver": "1.1.7",
+      "category": "FireTV"
+    },
+    {
+      "title": "LazyIPTV Deluxe",
+      "description": "IPTV-плеер с удобным интерфейсом, уникальными функциями и использующий движок ExoPlayer. Нужен ваш плейлист.",
+      "url": "https://www.dropbox.com/scl/fi/44pzvixtl4915ouygptyn/LazyIPTV-Deluxe-v3.014.apk?rlkey=tznwl0z5biuxfxjmwpbjazpsu&dl=1",
+      "mirror": "lazyiptv",
+      "ver": "3.014",
+      "category": "IPTV"
+    },
+    {
+      "title": "SmartTube",
+      "description": "Альтернативная замена YouTube с дополнительными функциями. Привязка к учетной записи YT.",
+      "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+      "mirror": "smarttube",
+      "ver": "latest",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "FileManager Plus",
+      "description": "File Manager+ — простой и мощный файловый менеджер для Android-устройств.",
+      "url": "https://www.dropbox.com/scl/fi/zfr3kwewsh554e7fq9xv7/File-Manager-Plus-v3.5.4-Premium.apk?rlkey=2azn53ei7frcdmzrl67ltocpt&st=yl65tcaz&dl=1",
+      "mirror": "filemanagerplus",
+      "ver": "3.5.4",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Total-Commander",
+      "description": "Total Commander — популярный и многофункциональный файловый менеджер для Android.",
+      "url": "https://www.dropbox.com/scl/fi/guolmhorf7flvn8jwdb2u/Total_Commander-v3.50.apk?rlkey=s2jcivuy98xenk6vw54nbyyk6&dl=1",
+      "mirror": "totalcommander",
+      "ver": "3.50",
+      "category": "Инструменты"
+    },
+    {
+      "title": "KinoTrend",
+      "description": "KinoTrend — приложение для просмотра онлайн-фильмов и торрентов. Только фильмы и только новинки, вышедшие за последние 90 дней. Несколько онлайн-источников.\nПоддержка Android TV.",
+      "url": "https://www.dropbox.com/scl/fi/012kjletnkveqcmp8dnvi/KinoTrend-2.3.7.apk?rlkey=g02eokfzagltd4t2zti99q09q&dl=1",
+      "app_review": "https://youtu.be/0niIUegv3SE",
+      "mirror": "kinotrend",
+      "ver": "2.3.7",
+      "category": "Кино"
+    },
+    {
+      "title": "AIDA64",
+      "description": "AIDA64: мощный инструмент для получения подробной информации об устройстве — как о «железе», так и о программном обеспечении.\n\nОсобенности мода:\n\n- Разблокированы платные функции;\n- Удалена реклама;\n- Удалены ненужные сервисы и разрешения;\n- Отключён доступ к сети;\n- Уменьшен размер приложения;\n- Отключён код отладки.",
+      "url": "https://www.dropbox.com/scl/fi/xfcfiom5oxc6ylxppvbh1/AIDA64-Premium-v2.06_build_206-Mod.apk?rlkey=ql5b88nzxpxfjhsfxusrpfeq7&dl=1",
+      "mirror": "aida64",
+      "ver": "64",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Repository Don't_Panic",
+      "description": "🌐Хранилище для аддона Plex",
+      "url": "https://pannal.github.io/dontpanickodi/repository.dontpanic-0.2.6-1.zip",
+      "mirror": "dontpanic",
+      "ver": "0.2.6-1",
+      "category": "Репозиторий Kodi"
+    },
+    {
+      "title": "Repository Mar33",
+      "description": "🌐Хранилище аддонов от Martin33",
+      "url": "http://martinstz.com/repo/repository.mar33-3.3.33.zip",
+      "mirror": "mar33",
+      "ver": "3.3.33",
+      "category": "Репозиторий Kodi"
+    },
+    {
+      "title": "KodiNerds Omega",
+      "description": "💥Имя: Kodinerds\n💥Версия: 21 Omega\n💥Разработчик: Maven\n💥Требуется ОС: Android 5.0+",
+      "url": "https://www.dropbox.com/scl/fi/q0qvicizfho1ldw5g3bbn/kodi-21.0-Omega-armeabi-v7a.apk?rlkey=ut32twbo51lzql24rka5vjlsy&dl=1",
+      "mirror": "kodinerdsomega",
+      "ver": "21.0",
+      "category": "Kodi"
+    },
+    {
+      "title": "KodiNerds FireTV Omega",
+      "description": "💥Имя: Kodinerds\n💥Версия: 21 Omega\n💥Разработчик: Maven\n💥Требуется ОС: Android 5.0+",
+      "url": "https://www.dropbox.com/scl/fi/o8subdxfkecsjqfngjkkp/Kodinerds-v21.0-for-FireTV-ARM-v7a-20240408.apk?rlkey=m353nj90dcy1m75gyktx7yryo&dl=1",
+      "mirror": "kodinerdsfiretvomega",
+      "ver": "21.0",
+      "category": "FireTV"
+    },
+    {
+      "title": "OTTNavigator",
+      "description": "Мощный и высоконастраиваемый IPTV-плеер, стабильно работающий на всех Android-устройствах, включая Android TV, ТВ-боксы, планшеты и смартфоны.",
+      "url": "https://www.dropbox.com/scl/fi/gaou86urbvick3lkit6y0/OTT-Navigator-v1.7.2.2.apk?rlkey=2kexml1ykyctzs5kevbnoaqyu&dl=1",
+      "mirror": "ottnavigator",
+      "ver": "1.7.2.2",
+      "category": "IPTV"
+    },
+    {
+      "title": "StbEmu",
+      "description": "С помощью этого плеера можно смотреть Stalker-порталы и порталы с MAC-адресами.",
+      "url": "https://www.dropbox.com/scl/fi/dsk6xem2rr4pee7xdcqcj/StbEmu-Pro-v2.0.14.01-ARM-v7a.apk?rlkey=ny3ml9793uq400tuzlk5i0nz7&dl=1",
+      "mirror": "stbemu",
+      "ver": "2.0.14.01",
+      "category": "IPTV"
+    },
+    {
+      "title": "RedBull TV",
+      "description": "Приложение с телеканалами Red Bull TV. Легально лицензированный контент.\n\nВ приложении есть каналы в прямом эфире, посвященные гонкам, мотогонкам, велоспорту и экстремальным видам спорта. Также имеется большой каталог VOD-контента: записи соревнований, гонок, видеоролики, сериалы и многое другое.\n\nМодифицировано: без рекламы и другие улучшения. Разблокирован просмотр без авторизации, на главном экране нажмите «пропустить».",
+      "url": "https://www.dropbox.com/s/t5zi9u7qvfod5eq/RedBullTV-4.13.4.4-atv.apk?dl=1",
+      "mirror": "redbulltv",
+      "ver": "4.13.4.4",
+      "category": "Стриминг"
+    },
+    {
+      "title": "MagellanATV",
+      "description": "MagellanTV Documentaries — большая коллекция документальных фильмов и сериалов на английском языке в 4K. Более 1500 документальных историй об истории, науке и цивилизации.",
+      "url": "https://www.dropbox.com/scl/fi/a21jofdzogrdm0db1jdry/MagellanATV-Documentaries-2.1.98-GO_TV.apk?rlkey=avdwcqx67168e94dtjvrt1t91&dl=1",
+      "mirror": "magellantv",
+      "ver": "2.1.98",
+      "category": "Стриминг"
+    },
+    {
+      "title": "ElementalTV",
+      "description": "Приложение для просмотра ТВ за границей для болгар. Требуется аккаунт для входа!",
+      "url": "https://www.dropbox.com/s/1u8qm221fmp48x0/Elemental_TV_for_Android_TV_c6c816bb.apk?dl=1",
+      "mirror": "elementaltv",
+      "ver": "0",
+      "category": "IPTV"
+    },
+    {
+      "title": "bgtv-on-box",
+      "description": "Приложение для просмотра ТВ за границей для болгар. Требуется аккаунт для входа!",
+      "url": "https://www.dropbox.com/s/5plbz5awi9i0i41/bgtv-on-box-0.1.5.apk?dl=1",
+      "mirror": "bgtv-on-box",
+      "ver": "0.1.5",
+      "category": "IPTV"
+    },
+    {
+      "title": "AndroidTV Remote",
+      "description": "Без описания не требуется.",
+      "url": "https://www.dropbox.com/scl/fi/jy4wxw1mkkqywmdq2oh6x/AndroidTVRemote-1.6.5.apk?rlkey=bc70cqcitowfosw5639s4pnis&dl=1",
+      "mirror": "Androidtvremote",
+      "ver": "1.6.5",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Remote Control",
+      "description": "Приложение, с помощью которого можно использовать телефон как универсальный пульт. Устройства должны быть в одной сети Wi-Fi. В разделе Cast, Screen Mirroring активируется для трансляции видео и фото с телефона на телевизор.",
+      "url": "https://www.dropbox.com/scl/fi/cfwdhdxtmskab6nls16ud/Remote-Control-for-All-TV-v12.1.apk?rlkey=w3am2ztbozevsu2cjdseu0ufi&dl=1",
+      "mirror": "RemoteControl",
+      "ver": "12.1",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Neterra.TV (STB and AndroidTV)",
+      "description": "Приложение для просмотра ТВ. Требуется аккаунт для входа!",
+      "url": "https://www.dropbox.com/scl/fi/3qq5yz5brtp80uwttbwu5/Neterra.TV-STB-and-AndroidTV-v2.942.apk?rlkey=2dxs9kn4jj7ry34o9b6f3c8s5&dl=1",
+      "mirror": "neterratv",
+      "ver": "2.942",
+      "category": "IPTV"
+    },
+    {
+      "title": "b.box app",
+      "description": "Приложение для просмотра ТВ. Требуется аккаунт для входа!",
+      "url": "https://www.dropbox.com/scl/fi/znunlh0fqh222a735mle1/b.box-app-v2.7.8.apk?rlkey=cu5nd712wfmpm3ois6xpdjwg0&dl=1",
+      "mirror": "b.box",
+      "ver": "2.7.8",
+      "category": "IPTV"
+    },
+    {
+      "title": "SpotifyATV",
+      "description": "Приложение имеет многоязычный интерфейс, требует минимум Android 5.0. Версия без рекламы. Полная поддержка Android TV и пульта. Некоторые функции сервера (загрузка треков) требуют платной подписки.\n\nИзменения:\n- Исправления ошибок и различные улучшения",
+      "url": "https://www.dropbox.com/scl/fi/w93i9wlujyhpqhqvo1ha5/Spotify-Premium-ATV-v.1.52.0-MODniy-style.apk?rlkey=3w0t1o5amnovkm68di279hza0&dl=1",
+      "mirror": "spotifyatv",
+      "ver": "1.52.0",
+      "category": "Стриминг"
+    },
+    {
+      "title": "Majide Repo",
+      "description": "🟢Хранилище аддонов от Majide.\nСодержит аддоны:\n💥BG ON AIR\n💥BRIGADA\n💥BTV PLUS\n💥NOVA PLAY\n💥CINEMABOX+\n💥БГ Подкасты\n💥Midnight Pulp\n💥VBOX7\n💥ВСИ4КИ ФИЛМИ\n💥AMUNDA\n💥и другие",
+      "url": "https://www.dropbox.com/s/du7zbrl2qko9w45/repository.majide-0.20.8.zip?dl=1",
+      "mirror": "majide",
+      "ver": "0.20.8",
+      "category": "Репозиторий Kodi"
+    },
+    {
+      "title": "BG Addons repo",
+      "description": "Хранилище, собравшее множество болгарских аддонов:\n💥DJ Zone House Radio\n💥БГ Радиостанции\n💥Fusion TV\n💥Free BG TVs Playlist Generator\n💥PVR Playlist Helper\n💥TVBG PVR Backend\n💥ARENABG\n💥БГ Камерите\n💥BGTV-ON\n💥BRIGADA\n💥БНТ\n💥Btv Plus\n💥DAZN\nи многие другие",
+      "url": "https://www.dropbox.com/scl/fi/87afwlr3danjcjw2euoxp/repo.bg.plugins.1.0.2.zip?rlkey=jot9pvn3q2tkbwjy8rauxdo9h&dl=1",
+      "mirror": "bgaddons",
+      "ver": "1.0.2",
+      "category": "Репозиторий Kodi"
+    },
+    {
+      "title": "MiXplorer Silver",
+      "description": "Файловый проводник с поддержкой облаков, FTP, LAN и приятным интерфейсом",
+      "url": "https://www.dropbox.com/scl/fi/oaph83qbrlyrcut27e8f4/MiXplorer-v6.67.3-Silver_build_24092410-arm64-v8a.apk?rlkey=nid9pv2ng88uutd72n75u6kbu&dl=1",
+      "mirror": "mixplorer",
+      "ver": "6.67.3",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Fidy WEB 4.0",
+      "description": "🟢Изменен значок и баннер;\n🟢Улучшена адаптация для Android TV;\n🟢Повышены требования к установке;\n🟢Исправлены ошибки.",
+      "url": "https://www.dropbox.com/s/8hkygtpslngcg43/fidy%20WEB%20v4.0.apk?dl=1",
+      "mirror": "fidyweb",
+      "ver": "4.0",
+      "category": "Инструменты"
+    },
+    {
+      "title": "EON",
+      "description": "EON TV позволяет смотреть в прямом эфире любимые каналы на различных устройствах: смартфонах, планшетах, ноутбуках (ПК, MAC), смарт и Android TV.",
+      "url": "https://www.dropbox.com/scl/fi/q7d960kamc3mp9t5utygn/com.ug.eon.android.tv-10.0.16881.apk?rlkey=f1utdyybk9g4jop4p4qbent08&dl=1",
+      "mirror": "eon",
+      "ver": "10.0.16881",
+      "category": "IPTV"
+    },
+    {
+      "title": "BulsatcomTV",
+      "description": "IPTV-сервис от Булсатком — новая услуга в портфолио компании. Предлагается клиентам с активной подпиской на оптический интернет (при технической возможности). IPTV нового поколения с VOD и другими функциями.",
+      "url": "https://www.dropbox.com/scl/fi/sh44bnwgu39avetojf3qz/BulsatcomTV-v1.5.37.apk?rlkey=abkgudov6e4z6vtshvwo5f605&dl=1",
+      "mirror": "bulsatcom",
+      "ver": "1.5.37",
+      "category": "IPTV"
+    },
+    {
+      "title": "Apple TV",
+      "description": "Apple TV+ — это стриминговый сервис, включающий Apple Originals: отмеченные наградами сериалы, впечатляющие драмы, новаторские документальные фильмы, детские передачи, комедии и многое другое, с ежемесячным добавлением новых проектов.",
+      "url": "https://www.dropbox.com/scl/fi/efpjtkdhc3ag3pz76ibcl/Apple-TV-v13.5.0.apk?rlkey=8f07q54tpao4050fliu79q3om&dl=1",
+      "mirror": "appletv",
+      "ver": "13.5.0",
+      "category": "Стриминг"
+    },
+    {
+      "title": "Zank Remote",
+      "description": "Zank remote",
+      "url": "https://www.dropbox.com/scl/fi/dwccrc3yfk6yk1wwax0bp/Zank_Remote-20.0.5.apk?rlkey=ic3rty149piqsmxa41ufpz81f&dl=1",
+      "mirror": "zank",
+      "ver": "20.0.5",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Android TV Remote PREMIUM",
+      "description": "Android TV Remote",
+      "url": "https://www.dropbox.com/s/roj8fbgyz8abvnv/Android%20TV%20Remote%20v1.3.2%20%5BPREMIUM%5D.apk?dl=1",
+      "mirror": "atvremote",
+      "ver": "1.3.2",
+      "category": "Инструменты"
+    },
+    {
+      "title": "Movielab TV",
+      "description": "Бесплатная медиатека для ATV",
+      "url": "https://www.dropbox.com/scl/fi/o92n0qkrorowcstta8h7f/movielab-2.0.4-tv.apk?rlkey=7678ie0xg09no1f0kxdwgoqm1&st=8201pt1u&dl=1",
+      "mirror": "movielabtv",
+      "ver": "2.0.4",
+      "category": "Кино"
+    },
+    {
+      "title": "Movielab Mobile",
+      "description": "Бесплатная медиатека для мобильных телефонов",
+      "url": "https://www.dropbox.com/scl/fi/3q3rs34ztpzjvyt7wowir/MovieLab-2.0.11-mob.apk?rlkey=hm84e8heo2ovmbpoxvim7csla&dl=1",
+      "mirror": "movielabmobile",
+      "ver": "2.0.11",
+      "category": "Кино"
+    },
+    {
+      "title": "TeaTV",
+      "description": "Приложение, похожее на Netflix, с бесплатными фильмами и субтитрами.",
+      "url": "https://www.dropbox.com/scl/fi/klrppl0s5ysl4ntbwerdo/TeaTV-v10.9.9r-release_build_214-Mod.apk?rlkey=nr6v3lygjqgaljilt0u16jog7&st=7s7z5dcu&dl=1",
+      "mirror": "teatv",
+      "ver": "10.9.9",
+      "category": "Кино"
+    },
+    {
+      "title": "Televizo",
+      "description": "IPTV-плеер с интересным интерфейсом и функциями. Нужен ваш плейлист. Модифицированная версия.",
+      "url": "https://www.dropbox.com/scl/fi/lvg1rj6e9dw5dye9m2mra/Televizo-1.9.7.86.apk?rlkey=r17tmvcpj1qkauggmqut76u58&dl=1",
+      "mirror": "televizo",
+      "ver": "1.9.7.86",
+      "category": "IPTV"
+    },
+    {
+      "title": "BPlayer",
+      "description": "Плеер, необходимый для FilmPlus, чтобы смотреть фильмы и сериалы с болгарскими субтитрами. [МОДИФИКАЦИЯ]",
+      "url": "https://www.dropbox.com/scl/fi/6mhkr1sm63br4shau7302/BPlayer-v1.3.4b35.apk?rlkey=m7m1rqsop516axa9cak36b5hz&dl=1",
+      "mirror": "bplayer",
+      "ver": "1.3.4",
+      "category": "Видеоплееры"
+    },
+    {
+      "title": "bgtime.TV",
+      "description": "Смотрите лучшие болгарские ТВ-каналы в прямом эфире и в записи в качестве Full HD. Требуется платная подписка!",
+      "url": "https://www.dropbox.com/scl/fi/vohuclteb628ue12eds7f/bgtime.tv-TV-v4078.apk?rlkey=wuj38qknwnioccua4annri33c&dl=1",
+      "mirror": "bgtime",
+      "ver": "4078",
+      "category": "IPTV"
+    },
+    {
+      "title": "Disney+",
+      "description": "Официальное приложение Disney+ для просмотра фильмов и сериалов. Требуется аккаунт для входа!",
+      "url": "https://www.dropbox.com/scl/fi/evsz64v7c13vakkfdshmt/Disney-v2.22.2-rc1.apk?rlkey=vmzzybwdyu593vr2ajfmdldhi&dl=1",
+      "mirror": "disney",
+      "ver": "2.22.2",
+      "category": "Стриминг"
+    },
+    {
+      "title": "SkyShowtime (AndroidTV)",
+      "description": "Официальное приложение SkyShowtime для просмотра фильмов и сериалов. Требуется аккаунт для входа!",
+      "url": "https://www.dropbox.com/scl/fi/5mrhq792zp7or3i4s4ar0/SkyShowtime-1.13.36-com.skyshowtime.skyshowtime.google.apk?rlkey=hk9hvd5gvzhb5z2rhrzfhkleg&dl=1",
+      "mirror": "skyshowtime",
+      "ver": "1.13.36",
+      "category": "Стриминг"
+    },
+    {
+      "title": "NovaPlay",
+      "description": "Nova Play ATV",
+      "url": "https://www.dropbox.com/scl/fi/v8j8tdlyn807az6zl6hyo/NovaPlay-ATV-v13.12.1-mod.apk?rlkey=rxlutv7dl79cqwmt9t32z6r4r&dl=1",
+      "mirror": "novaplay",
+      "ver": "13.12.1",
+      "category": "IPTV"
+    },
+    {
+      "title": "File commander",
+      "description": "File Commander — файловый менеджер, который группирует файлы в одном месте. Доступ не только к локальному накопителю, но и к облаку и LAN. Есть защищенное хранилище с PIN, встроенные плееры и 5 ГБ в MobiDrive.",
+      "url": "https://www.dropbox.com/scl/fi/x8komi4m512jbi908mtpk/File-Commander_v9.3.50050-50050.apk?rlkey=u7cr4471rjfh6ufi7j1nvv8c7&dl=1",
+      "mirror": "filecommander",
+      "ver": "9.3.50050",
+      "category": "Инструменты"
+    },
+    {
+      "title": "TorrServer",
+      "description": "Сервер, обеспечивающий работу приложения TorrServ (client) для просмотра ТВ, фильмов и сериалов из торрентов без загрузки, с помощью NUM, Lampa, LazyMediaDeluxe и других.",
+      "url": "https://www.dropbox.com/scl/fi/uljkjmg6z83z4g35306zw/TorrServer-v.134.apk?rlkey=1e2kh10inudj83oazh15ha904&dl=1",
+      "mirror": "torrserver",
+      "ver": "134",
+      "category": "Стриминг"
+    },
+    {
+      "title": "Vimu FireTv",
+      "description": "Лучший плеер для ATV/FireTv",
+      "url": "https://www.dropbox.com/scl/fi/bgn9gbxysaz5zvptjpos4/VimuMediaPlayer-10.25.AMZ.133t_armv7-1.apk?rlkey=zqhqkbu9ll780kbtui9bta3q4&dl=1",
+      "mirror": "vimufiretv",
+      "ver": "10.25",
+      "category": "FireTV"
+    },
+    {
+      "title": "TVirl MOD",
+      "description": "Добавляет IPTV-каналы напрямую в системное приложение «Каналы» / Live Channels на Android TV.\n\nСмотрите любимые интернет-ТВ-каналы прямо в системном приложении TV.\n\nTVirl интегрирует IPTV-каналы (плейлист M3U) в приложение Live Channels с удобным интерфейсом для телевизора.\n\nВозможности:\n* Загрузка M3U-плейлиста (локального или из интернета)\n* EPG в форматах XMLTV, JTV\n* Логотипы каналов\n* Поддержка UDP, DASH, HLS, HTTP Progressive, RTMP\n* Форматы MPEG-TS, mp4\n* Кодеки h264/h265/MPEG-2/AC-3/MP2/MP3/…\n* Возможность добавления собственных логотипов и EPG",
+      "url": "https://www.dropbox.com/scl/fi/dtiyd46obpoe6lylgj9fs/TVirl_0.5.3.3_MOD.apk?rlkey=3ou5nwuq8rr3p0zm53kzndu7f&dl=1",
+      "mirror": "tvirl",
+      "category": "IPTV",
+      "ver": "0.5.3.3"
+    },
+    {
+      "title": "TVirl MOD FireTV",
+      "description": "\n✳️Устанавливается как PlutoTV✳️\n✳️Регион должен быть Германия (или другой), в Болгарии не работает✳️\nДобавляет IPTV-каналы напрямую в системное приложение «Каналы» / Live Channels на Android TV.\n\nСмотрите любимые интернет-ТВ-каналы прямо в системном приложении TV.\n\nTVirl интегрирует IPTV-каналы (плейлист M3U) в приложение Live Channels с удобным интерфейсом.\n\nВозможности:\n* Загрузка M3U-плейлиста (локального или из интернета)\n* Программный гид (EPG) в XMLTV и JTV\n* Логотипы каналов\n* Поддержка UDP, DASH, HLS, HTTP Progressive, RTMP\n* MPEG-TS, mp4\n* h264/h265/MPEG-2/AC-3/MP2/MP3/…\n* Добавление собственных логотипов и EPG",
+      "url": "https://www.dropbox.com/scl/fi/gj909yfxq47trb5lct52g/TVirl_0.5.3.3_tv.pluto.android.apk?rlkey=j8wjtz5fdkptlahyw414qe18r&dl=1",
+      "mirror": "tvirlfos",
+      "category": "FireTV",
+      "ver": "0.5.3.3"
+    },
+    {
+      "title": "TPlay ATV",
+      "description": "Приложение для IPTV оператора Telecable. Функции: перемотка назад, пауза, 7 дней архива, поиск в архиве, адаптивный стрим, до 4 устройств, 4K на некоторых каналах.",
+      "url": "https://www.dropbox.com/scl/fi/9h7fa4klrt3117zkl4l3i/tPlay-v2.941-STB-and-AndroidTV.apk?rlkey=9vtevpcafc4yjostqoftbwd7m&dl=1",
+      "mirror": "tplayatv",
+      "category": "IPTV",
+      "ver": "7.0"
+    },
+    {
+      "title": "TPlay FireTV",
+      "description": "Приложение IPTV от оператора Telecable для FireTV. Функции: перемотка, пауза, архив на 7 дней, поиск, адаптивный стрим, до 4 устройств, 4K на некоторых каналах.",
+      "url": "https://www.dropbox.com/scl/fi/889q5mq8hx34cxofq6c8n/tplay-firetv.apk?rlkey=7e5fwzwrkmhb4cf9naioly1bk&dl=1",
+      "mirror": "tplayfiretv",
+      "category": "IPTV",
+      "ver": ""
+    },
+    {
+      "title": "CosmiDVR",
+      "description": "CosmiDVR — IPTV-тюнер / плагин для системного приложения Live Channels на Android TV с поддержкой DVR (запись, перемотка, планировщик).\n\n• Интеграция с домашним экраном\n• Пауза, перемотка, ускоренная перемотка IP-потоков\n• IPTV DVR / PVR (запись), запись сериала\n• Возможность записи до 10 потоков одновременно\n• Полноценная сетка EPG\n• Импорт нескольких плейлистов M3U и XMLTV\n• Легко редактировать жанры, номера каналов и др.",
+      "url": "https://www.dropbox.com/scl/fi/1mlqd9wpo1vrcdc90o5uf/Cosmi-DVR-mod.apk?rlkey=acvpcrmlsxlwba6pwoegpip1j&dl=1",
+      "mirror": "cosmidvr",
+      "category": "IPTV",
+      "ver": ""
+    },
+    {
+      "title": "A1 XploreTV FireTV",
+      "description": "A1 XploreTV FireTV",
+      "url": "https://www.dropbox.com/scl/fi/kaq929fqkic9rogj56k4w/A1-XploreTV-v1.51.0.0.apk?rlkey=bgja5h0zxnwd0du680ttyoogz&dl=1",
+      "mirror": "a1firetv",
+      "category": "FireTV",
+      "ver": "1"
+    },
+    {
+      "title": "Stremio",
+      "description": "Stremio предлагает безопасные, современные и бесшовные развлечения. Простой интерфейс, библиотека разнообразного контента, включая поддержку 4K HDR. Доступно на всех устройствах. Приложение гарантирует высокое качество стриминга и безопасность.",
+      "url": "https://www.dropbox.com/scl/fi/am5kgksomfag90l4oojoj/com.stremio.one-1.6.12-11049190-armeabi-v7a.apk?rlkey=vom1ysuuyktaig2y5w1knjws1&dl=1",
+      "mirror": "stremio",
+      "category": "Стриминг",
+      "ver": "1.6.12"
+    },
+    {
+      "title": "Extreme IPTV",
+      "description": "IPTV Extreme Pro — мультимедийное приложение для просмотра разнообразного ТВ-контента со всего мира. Нужен ваш плейлист. Модифицированная версия.",
+      "url": "https://www.dropbox.com/scl/fi/2wk5doir1vitapqngu3ew/IPTV-Extreme-129.0.apk?rlkey=lfhbkr1fyzf14ofs2d1s1jsau&dl=1",
+      "mirror": "iptvextreme",
+      "category": "IPTV",
+      "ver": "129.0"
+    },
+    {
+      "title": "MovieWorld",
+      "description": "Бесплатная медиабиблиотека с популярными фильмами и сериалами. Возможность выбора качества и озвучки. Агрегатор потоков (не имеет собственной базы).",
+      "url": "https://www.dropbox.com/scl/fi/p8dskncwd7dyzemgx5e8t/MovieWorld-1.4.1-atv.apk?rlkey=80gyc1li5ximp5r40hkkdjf4t&dl=1",
+      "mirror": "movieworld",
+      "category": "Кино",
+      "ver": "1.4.1"
+    },
+    {
+      "title": "Movian",
+      "description": "Movian — медиаплеер, в первую очередь предназначенный для использования на телевизорах.\n\nПоддерживает плагины, в т.ч. для онлайн-контента. Удобен на больших экранах.\n\nВозможен просмотр локальных файлов, сетевых и онлайн-ресурсов.",
+      "url": "https://www.dropbox.com/scl/fi/kwgh4e1nxwwfaalg4back/Movian-7.0.131-armv7.apk?rlkey=6ojhmkr6jgf3wygl3ce2hz37z&dl=1",
+      "mirror": "movian",
+      "app_review": "https://www.youtube.com/watch?v=AFlNK1BENTc",
+      "category": "Кино",
+      "ver": "7.0.131"
+    },
+    {
+      "title": "KinoHome",
+      "description": "Бесплатная видеотека.",
+      "url": "https://www.dropbox.com/scl/fi/slvdvnzkhy3nw776v6wq0/KinoHome-5.9.6.apk?rlkey=lp0lz5sfobqmr7fgdg7vaieln&dl=1",
+      "mirror": "kinohome",
+      "category": "Кино",
+      "ver": "5.9.6"
+    },
+    {
+      "title": "Launcher Manager by TDUK",
+      "description": "Launcher manager",
+      "url": "https://www.dropbox.com/scl/fi/dfwm10jav29vtimmxmhvg/LMTDUK_119.apk?rlkey=76efp07whne8szwllweci44pl&dl=1",
+      "app_review": "https://www.youtube.com/watch?v=z7_rQS2ifQA",
+      "mirror": "lmtduk",
+      "category": "FireTV",
+      "ver": "119"
+    },
+    {
+      "title": "Wolf Launcher",
+      "description": "Wolf Launcher",
+      "url": "https://www.dropbox.com/scl/fi/lylfwv2v8k2xsqiu2uyav/WolfLauncher_0.1.9-Wolf.apk?rlkey=shkuk4xe4gwgkzlt7soxq463o&dl=1",
+      "mirror": "wolflauncher",
+      "category": "FireTV",
+      "ver": "0.1.9"
+    },
+    {
+      "title": "UniMote",
+      "description": "⚙️ Приложение превращает ваш телефон в универсальный пульт для Smart TV, Android TV, Samsung, LG, TCL, Sony и др. Управление по Wi-Fi или ИК-порту (если есть). В разделе Cast можно транслировать видео и фото с телефона на ТВ.",
+      "url": "https://www.dropbox.com/scl/fi/l0uens2qpoa6i6sye9w77/UniMote-Premium-v1.7.0_build_54-Mod.apk?rlkey=zoq1qmnj876qzghggmtp5ls1w&dl=1",
+      "mirror": "unimote",
+      "category": "Инструменты",
+      "ver": "1.7.0"
+    },
+    {
+      "title": "Yandex Browser TV",
+      "description": "Особенности браузера Yandex ATV:\n➖ Переключение между Yandex и Google\n➖ Сохранение/удаление закладок на главном экране\n➖ История посещений\n➖ Возможность удаления отдельных запросов или всей истории\n➖ Поддержка голосового поиска\n➖ Перевод и озвучка зарубежных видео на русский\n➖ Управление с пульта ДУ",
+      "url": "https://www.dropbox.com/scl/fi/ie0pg6wdienmdcp9omejl/Yandex-Browser-TV-v23.9.0.75.apk?rlkey=yuvjt89ctiwdbvzgkqar1kq0x&dl=1",
+      "mirror": "yandexbrowsertv",
+      "category": "Браузеры",
+      "ver": "23.9.0.75"
+    },
+    {
+      "title": "Lamp!she",
+      "description": "Облегченная и предварительно настроенная версия Lampa TV",
+      "url": "https://www.dropbox.com/scl/fi/0kewhp6h3z3j8v6xgfk6u/LAMP-SHE-1.21.apk?rlkey=23tvspo1zlr0kjmm0mbfipk0e&dl=1",
+      "mirror": "lamp!she",
+      "category": "Кино",
+      "ver": "1.21"
+    },
+    {
+      "title": "TPlayer",
+      "description": "Плеер для TeaTV",
+      "url": "https://www.dropbox.com/scl/fi/2ysyo3wf6s042ghgcs8sp/TPlayer-7.6b.apk?rlkey=uzr5s771idjqae9ljauxjbl6p&dl=1",
+      "mirror": "tplayer",
+      "category": "Кино",
+      "ver": "7.6"
+    },
+    {
+      "title": "MXPlayer",
+      "description": "⭐️ MX Player\n\n🛅 MX Player — это видеоплеер для Android с поддержкой множества форматов.\n🩸Обновленные кодеки AV1, AC3, DTS\n🩸Оптимизированный видео-графический вывод\n🩸Поддержка VOD-загрузки\n🩸Без рекламы",
+      "url": "https://www.dropbox.com/scl/fi/5zu45dscc08nyz6ec7jg8/MX-Player-1.91.5.apk?rlkey=vvspoktztuphg5jav2h4j6nhu&dl=1",
+      "mirror": "mxplayer",
+      "category": "Видеоплееры",
+      "ver": "1.91.5"
+    },
+    {
+      "title": "Solid Explorer",
+      "description": "Solid Explorer Full",
+      "url": "https://www.dropbox.com/scl/fi/lefy77w5dnqyru9j40nyz/Solid-Explorer-v2.8.58.apk?rlkey=tcz73z52hdojhfktbv0nqxtqu&dl=1",
+      "mirror": "solidexplorer",
+      "category": "Инструменты",
+      "ver": "2.8.58"
+    },
+    {
+      "title": "Kino HD",
+      "description": "📽 Kino HD — приложение для просмотра фильмов и сериалов с сортировкой и возможностью скачивать торрент.\n\n🤑 Модификация: Premium",
+      "url": "https://www.dropbox.com/scl/fi/8l9wya6tlf5i0x5ybo9su/KinoHD-Premium-3.4.9.apk?rlkey=c69z90mumgy1bdhu2gy7jcryw&dl=1",
+      "mirror": "kinohd",
+      "category": "Кино",
+      "ver": "3.4.9"
+    },
+    {
+      "title": "BeeTV",
+      "description": "BeeTV (без рекламы) — приложение для онлайн-просмотра фильмов и сериалов на оригинальном языке + субтитры. Android TV/телефон.",
+      "url": "https://www.dropbox.com/scl/fi/33k6ix9d0ws2ygvkmf0ix/BeeTV-v4.1.2_build_226.apk?rlkey=wayfk75q034972spli8whbyg9&dl=1",
+      "mirror": "beetv",
+      "category": "Кино",
+      "ver": "4.1.2"
+    },
+    {
+      "title": "Movily",
+      "description": "Moviely — приложение для онлайн-просмотра фильмов и сериалов. Удобный интерфейс, выбор озвучек, отметки, история. Бесплатно в качестве 1080p, без рекламы, поддержка Android TV/мобильных устройств.",
+      "url": "https://www.dropbox.com/scl/fi/mq7raw10udslpegnataol/Movily_TV_v1.1.1_Android_TV.apk?rlkey=6ymnu5txovg63ry1pwvus323e&dl=1",
+      "mirror": "movily",
+      "category": "Кино",
+      "ver": "1.1.1"
+    },
+    {
+      "title": "IMDB",
+      "description": "ℹ️ Официальное приложение крупнейшего кино-портала.\n\n⚙️ Обзоры, рейтинги, рекомендации, трейлеры и многое другое обо всех фильмах и сериалах.\n\n🔝 Модификация: без рекламы, отключены трекеры и аналитика, удалены ненужные разрешения и сервисы, нет проверки из Play Market.",
+      "url": "https://www.dropbox.com/scl/fi/oo5guzk4sfb6aon3z1liy/IMDb-v9.1.3.109130300_build_109130300-Mod.apk?rlkey=vjzeayqttza76vbuopa5vuqyc&dl=1",
+      "mirror": "imdb",
+      "category": "Инструменты",
+      "ver": "9.1.3.109130300"
+    },
+    {
+      "title": "Mouse Toggle FireTV",
+      "description": "Mouse Toggle FireTV 🐭",
+      "url": "https://www.dropbox.com/scl/fi/lncqyycu4v55jau9zkq7b/Mouse-Toggle-Fire-TV-v1.11-mod.apk?rlkey=esqwbzwfwdv78jzxsxac0qy0o&dl=1",
+      "mirror": "mousetogglefiretv",
+      "category": "FireTV",
+      "ver": "1.11"
+    },
+    {
+      "title": "Universal TV Remote",
+      "description": "Превращает телефон в универсальный пульт.",
+      "url": "https://www.dropbox.com/scl/fi/zv083xiupa2puvecqak1g/Universal-TV-Remote-Pro-v2.8.0.apk?rlkey=2i1v0vc1mzqoclazcpiu4jhv3&dl=1",
+      "mirror": "universaltvremote",
+      "category": "Инструменты",
+      "ver": "2.8.0"
+    },
+    {
+      "title": "Nova VideoPlayer",
+      "description": "Nova Video Player — универсальный видеоплеер с открытым исходным кодом для Android TV. Может работать с SMB и DLNA. Поддержка ExoPlayer, AC3/DTS (HDMI/SPDIF) и многое другое.",
+      "url": "https://www.dropbox.com/scl/fi/m1nx1neoa6lnygxj815ss/Nova-VideoPlayer-6.3.27-armv7.apk?rlkey=4ul74udgqm9isjxp4mi77q5kk&dl=1",
+      "mirror": "novavideoplayer",
+      "category": "Видеоплееры",
+      "ver": "6.3.27"
+    },
+    {
+      "title": "Kodi Latest BG Fidy Edition",
+      "description": "💥Имя: Kodi BG\n💥Версия: 21.0 Omega\n💥Требуется ОС: Android 5.0+\n💥Включённые аддоны:\n🧩Aquafluence Skin\n🧩EON PVR\n🧩Hide OSD\n🧩Bulgarian Subs\n🧩Mar33 Repository\n🧩Majide Repository\n🧩Bg Add-ons Repository\n🧩Don't Panic Repository\n🧩SlyGuy Repository\n🧩CastagnaIT Repository\n🧩Michaz Repository\n⚙Небольшие корректировки настроек по умолчанию (интерфейс, язык, аудио, субтитры).",
+      "url": "https://www.dropbox.com/scl/fi/cfc5v7ghk458lrqteujy6/Kodi-BG-ARM-v7a.apk?rlkey=4yf0pxt01qjemn8r8m4bklgru&dl=1",
+      "mirror": "kodibg",
+      "category": "Kodi",
+      "ver": "latest"
+    },
+    {
+      "title": "ProgTV",
+      "description": "Отличный IPTV-плеер с богатой функциональностью. Стабильная версия.\n\nПоддержка плейлистов (M3U, XSPF), EPG (XMLTV, JTV), Stalker (Ministra), XtreamCodes, udpxy.",
+      "url": "https://www.dropbox.com/scl/fi/cg4ttvvp5ysv4isoevgmr/progTV.beta-3.44.9.apk?rlkey=xbotejxjhx0oagt9ua0mnmvun&dl=1",
+      "mirror": "progtv",
+      "category": "IPTV",
+      "ver": "3.44.9"
+    },
+    {
+      "title": "Onvier",
+      "description": "Современная система управления IP-камерами, поддержка 10 000+ моделей.\nПоддержка большинства современных (ONVIF) камер, а также старых через RTSP и MJPEG.",
+      "url": "https://www.dropbox.com/scl/fi/1sny340rt4uux9nyn1t4m/biyee.onvifer-19.55.apk?rlkey=xfwn3u4br82js25llaad9jsmd&dl=1",
+      "mirror": "onvier",
+      "category": "Инструменты",
+      "ver": "19.55"
+    },
+    {
+      "title": "LeanKey Keyboard",
+      "description": "Многоязычная клавиатура для Android TV.\nПозволяет удобно управлять с пульта. Оформление для практически любого языка, горячие клавиши, циклическая навигация и т.д.",
+      "url": "https://www.dropbox.com/scl/fi/lbwh85ptzgmiy134cawdo/LeanKey-Keyboard-6.1.23.apk?rlkey=4z4fol6hcr2fphvxyvnpqn1cy&dl=1",
+      "mirror": "keyboard",
+      "category": "Инструменты",
+      "ver": "6.1.23"
+    },
+    {
+      "title": "Vstro player",
+      "description": "IPTV-плеер для ATV & AOSP. Поддерживает порталы, XTREAM и STALKER. Удобный для просмотра ТВ, VOD и сериалов. Приложение не предоставляет контент (нужен ваш плейлист).",
+      "url": "https://www.dropbox.com/scl/fi/317c1tjjzo5a44zoqcgc2/Vstro-Player-8.5.9.apk?rlkey=qyqep0e2v9bmrnfbpm029v7xl&dl=1",
+      "mirror": "vstro",
+      "category": "IPTV",
+      "ver": "8.5.9"
+    },
+    {
+      "title": "SS IPTV",
+      "description": "Удобный и функциональный медиаплеер для просмотра интернет-трансляций.\nИнтегрирует плейлисты от разных IPTV-провайдеров, а также позволяет загружать свои собственные.",
+      "url": "https://www.dropbox.com/scl/fi/jbuvmgw4vgqhrwitp1rsj/SS-IPTV-1.0.apk?rlkey=ta468w9lqh61o3xleqjvsf8op&dl=1",
+      "mirror": "ssiptv",
+      "category": "IPTV",
+      "ver": "1.0"
+    },
+    {
+      "title": "Perfect Player",
+      "description": "IPTV-плеер в стиле приставки. Не содержит собственных каналов, необходимо добавлять плейлисты.\n- Красивый OSD\n- IPTV с группами, логотипами, EPG\n- Локальные файлы\n- M3U, XSPF\n- XMLTV, JTV\n- Поддержка udpxy\n- Можно управлять пультом и т.д.",
+      "url": "https://www.dropbox.com/scl/fi/nkaamkdcgbcrxok27w2rk/PERFECT-PLAYER-IPTV-V1.6.0.1-FINAL-UNLOCKED-MOD-EXTRA.apk?rlkey=hfexqbgji5zyfw441l62gbo8n&dl=1",
+      "mirror": "perfect",
+      "category": "IPTV",
+      "ver": "1.6.0.1"
+    },
+    {
+      "title": "Tv Bro",
+      "description": "Веб-браузер с открытым исходным кодом, оптимизированный для приставок и Android TV.\nПолная поддержка пульта, управление скоростью курсора. Есть закладки, история и пр.",
+      "url": "https://www.dropbox.com/scl/fi/744w749xnw1zkwpbky67x/TVBro_2.0.1.apk?rlkey=qt3rvcw7rzc9fzu6240c02eer&dl=1",
+      "mirror": "tvbro",
+      "category": "Браузеры",
+      "ver": "2.0.1"
+    },
+    {
+      "title": "Plex",
+      "description": "Plex — единый центр для стриминга медиа в реальном времени. Позволяет просматривать контент с других устройств без загрузки. Можно смотреть фильмы, сериалы, музыку, фото и т.д. с ПК на смартфоне и наоборот.",
+      "url": "https://www.dropbox.com/scl/fi/eynmdmp2w4u43b737anzi/Plex-v10.26.0.apk?rlkey=16dgyax96ss2hyuck71z6211i&dl=1",
+      "mirror": "plex",
+      "category": "Кино",
+      "ver": "10.26.0"
+    },
+    {
+      "title": "Prisma-TV",
+      "description": "Приложение для онлайн-просмотра фильмов и сериалов. Несколько онлайн-источников, торренты, трейлеры, история, гибкие настройки. Предлагается для Android TV (MSX/WebOS).",
+      "url": "https://www.dropbox.com/scl/fi/wpdwxf5n69261lkjb6li2/PRISMA-0.6.4.apk?rlkey=ni94enpw4t15vuvdiufz7qp8x&dl=1",
+      "mirror": "prismatv",
+      "category": "Кино",
+      "ver": "0.6.4"
+    },
+    {
+      "title": "Rotation",
+      "description": "Бесплатный инструмент для управления ориентацией экрана. Полезен, если требуется повернуть экран на Android-устройствах, где это ограничено.",
+      "url": "https://www.dropbox.com/scl/fi/sednrokaakcwq4a7s3sg7/Rotation-v28.3.2.apk?rlkey=9lessz2lh09senzit7gwhnl9k&dl=1",
+      "mirror": "rotation",
+      "category": "Инструменты",
+      "ver": "28.3.2"
+    },
+    {
+      "title": "Button Remapper",
+      "description": "Настройка дополнительных функций кнопок пульта.",
+      "url": "https://www.dropbox.com/scl/fi/orhov9kp73nhkg2ih6i8b/button-remapper_1.46.apk?rlkey=8t32ymvik8pqwh5j3gu8fyv1p&st=0c42ap2x&dl=1",
+      "mirror": "buttonremapper",
+      "app_review": "https://www.youtube.com/watch?v=QwT2AxJGvkU",
+      "ver": "1.46",
+      "category": "FireTV"
+    },
+    {
+      "title": "Dream player",
+      "description": "Мощный «комбайн» для просмотра IPTV и др. Много функций и опций. Возможна первичная настройка через браузер (при той же Wi-Fi сети). Без регистрации.",
+      "url": "https://www.dropbox.com/scl/fi/jvvytah2jk596izdryc28/Dream-Player-10.5.1.apk?rlkey=hwykirlmdgu0agp614px6m1k7&dl=1",
+      "mirror": "dreamplayer",
+      "category": "IPTV",
+      "ver": "10.5.1"
+    },
+    {
+      "title": "m3u-iptv",
+      "description": "Работает на: Samsung/Tizen TV, AndroidTV, LG webOS TV, Windows / Microsoft App Store, Browser https://m3u-ip.tv/browser/\nУдобный интерфейс, быстрая настройка плейлистов M3U, без рекламы, без регистрации. Запускайте и смотрите каналы.",
+      "url": "https://www.dropbox.com/scl/fi/3s9qlwatal3jnd8tak4en/M3u-IPTV-v2.3.9.apk?rlkey=z562giqghwjvzjo3vp9olwdul&dl=1",
+      "app_review": "https://m3u-ip.tv/browser/",
+      "mirror": "m3uiptv",
+      "category": "IPTV",
+      "ver": "2.3.9"
+    },
+    {
+      "title": "Max",
+      "description": "Max: Stream HBO, TV, & Movies. Max — платформа для просмотра HBO, топовых сериалов, фильмов, спорта, новостей и многого другого.",
+      "url": "https://www.dropbox.com/scl/fi/9ulq4esdipaw4iqzx5ekg/Max-4.10.0.44.apk?rlkey=v0ggng82cjg6i9tcx9m8egzd3&dl=1",
+      "mirror": "max",
+      "category": "Кино",
+      "ver": "4.10.0.44"
+    },
+    {
+      "title": "Background Apps and Process List",
+      "description": "Принудительное завершение приложений, работающих в фоновом режиме на AndroidTV. Похоже на диспетчер задач в Windows.\n\nОсобенности:\n✓ Список пользовательских и системных приложений\n✓ Закрытие всех приложений или нескольких сразу\n✓ Опция автозапуска при включении устройства",
+      "url": "https://github.com/visnkmr/backgroundappslist/releases/latest/download/app-release.apk",
+      "mirror": "background",
+      "category": "Инструменты",
+      "ver": "0"
+    },
+    {
+      "title": "CetusPlay",
+      "description": "Универсальный пульт для медиа-приставок и телевизоров на Android. Поддерживает режим клавиатуры, мыши и геймпада, многоязычный интерфейс.",
+      "url": "https://www.dropbox.com/scl/fi/124wxp4aoyabysg2bbjc4/CetusPlay-4.9.4.541.apk?rlkey=kvrt6ps62jxchdoxho8s8raz1&dl=1",
+      "mirror": "cetus",
+      "category": "Инструменты",
+      "ver": "4.9.4.541"
+    },
+    {
+      "title": "DeviceInfo",
+      "description": "Утилита, показывающая информацию об устройстве, включая сетевые компоненты, память (физическую и оперативную), датчики, GPU и архитектуру.",
+      "url": "https://www.dropbox.com/scl/fi/t4qj1vry60cdzfxpbypnz/Device_Info_HW-v5.19.1.apk?rlkey=1tcx2o3ta6rl6edq4cex7rtyh&dl=1",
+      "mirror": "deviceinfo",
+      "category": "Инструменты",
+      "ver": "5.19.1"
+    },
+    {
+      "title": "AerialDream",
+      "description": "Скринсейвер, перенесенный с AppleTV для устройств на Android TV",
+      "url": "https://www.dropbox.com/scl/fi/0f4w8tk422m7oi3ueongk/Aerial-Dream-1.10.0.apk?rlkey=u0o5h15c8wx46q5j7sn3usk7z&dl=1",
+      "mirror": "aerialdream",
+      "category": "Скринсейверы",
+      "ver": "1.10.0"
+    },
+    {
+      "title": "HB_Player",
+      "description": "Эффективный видеоплеер для BeeTV. Расширенное аппаратное ускорение, поддержка субтитров с настройками размера, цвета, фона и др.",
+      "url": "https://www.dropbox.com/scl/fi/pewayqiz4t1iocz3dur13/HB_Player-v1.1.7_build_18-Mod.apk?rlkey=1d2b98pg9y5bwbane7iv75ho6&dl=1",
+      "mirror": "hbplayer",
+      "category": "Видеоплееры",
+      "ver": "1.1.7"
+    },
+    {
+      "title": "Internet Speed Meter Lite",
+      "description": "Инструмент для отслеживания скорости интернета и использования трафика.\nАктуальные данные в строке состояния и уведомлениях.\n- Ежедневная статистика.\n- Отдельная статистика по Wi-Fi и мобильному интернету.\n- История за последние 30 дней.",
+      "url": "https://www.dropbox.com/scl/fi/8ri6k1ftefazmuli1siru/Internet-Speed-Meter-Lite-mod-apk-v1-5-9-lite-159.apk?rlkey=fgngfgp6s4zlfo0w97i8dlq4r&dl=1",
+      "mirror": "internetspeedmeter",
+      "category": "Инструменты",
+      "ver": "1.5.9"
+    },
+    {
+      "title": "MaxPlay One",
+      "description": "Просмотр фильмов, сериалов, телевидения",
+      "url": "https://www.dropbox.com/scl/fi/obdk9wn8rofz0mw36w140/MaxPlay_Original_v1018_Release.apk?rlkey=740egu1w7nuosx471c76i073d&dl=1",
+      "mirror": "maxplay",
+      "category": "Стриминг",
+      "ver": "1018"
+    },
+    {
+      "title": "MaxPlay",
+      "description": "Смотрите новейшие фильмы и сериалы бесплатно. Работает на Android, Android TV, Fire OS. Более подробная информация на https://maxplay.one/, там же есть панель провайдера. Приложение с чистым и приятным интерфейсом.",
+      "url": "https://www.dropbox.com/scl/fi/yjlswh5mhjtauapo88f21/MaxPlayOne_Original_v1018_Release.apk?rlkey=91gwb4xkqsy0grjcv8sau1sba&dl=1",
+      "mirror": "maxplayone",
+      "category": "Стриминг",
+      "ver": "1018"
+    },
+    {
+      "title": "Remote control for TV Pro",
+      "description": "Универсальный пульт для различных ТВ (Samsung, LG, Sony и т.д.), кабельных/спутниковых приставок (Comcast, Dish, DirecTV и др.), стриминговых плееров (Apple TV, Roku, XBox, Chromecast и др.) и бытовой техники (Samsung, LG, Panasonic и др.) Возможна работа через IR-порт или Wi-Fi.",
+      "url": "https://www.dropbox.com/scl/fi/c6k8fl0sm7n5omccvea8d/Remote-Control-for-TV-Pro-v11.9.apk?rlkey=bnmzesnepq4ypu50rrt2ucjed&dl=1",
+      "mirror": "remotecontrolfortv",
+      "category": "Инструменты",
+      "ver": "0"
+    },
+    {
+      "title": "Aerial Views",
+      "description": "Aerial Views — видеоскринсейвер с красивыми 4K HDR роликами для Android TV и FireTV.\n\nВидео может занимать большой объём трафика. Можно заранее скачать, чтобы воспроизводить локально.",
+      "url": "https://www.dropbox.com/scl/fi/n9b36g76jhfr2qbmx9lz2/Aerial-Views-1.7.2.apk?rlkey=55xgua3j8wf63n4bnx2tlq71x&dl=1",
+      "mirror": "aerialview",
+      "category": "Скринсейверы",
+      "ver": "1.7.2"
+    },
+    {
+      "title": "OnStream",
+      "description": "Смотрите бесплатные фильмы и сериалы онлайн в HD+ качестве на оригинальном языке с субтитрами.",
+      "url": "https://www.dropbox.com/scl/fi/6e74y8q6kuum8492qq4sj/onstream-tv-1.0.7.apk?rlkey=5tmuab2nytx66k5haebnk57n8&dl=1",
+      "mirror": "onstream",
+      "category": "Стриминг",
+      "ver": "1.0.7"
+    },
+    {
+      "title": "Primal TV",
+      "description": "💬 Стильный и инновационный лаунчер для киноманов.\nПоддерживает Netflix, Apple TV, NUM и многие другие популярные онлайн-кинотеатры, отображает список просмотренных и «избранных» фильмов прямо на главном экране.\nМожно настраивать секции, миниатюры, их размер, цвет, шрифт и качество изображений.",
+      "url": "https://www.dropbox.com/scl/fi/4abrkfwucpobjhlxgw3fn/Primal-TV-Launcher-1.18.apk?rlkey=x3bkcajnafxaaomzmx63xw4nd&dl=1",
+      "mirror": "primaltv",
+      "category": "Лаунчеры",
+      "ver": "1.18"
+    },
+    {
+      "title": "SerialTrend",
+      "description": "📺 SerialTrend — приложение для просмотра последних сериалов, добавленных на торрент-трекер Rutor за последние несколько месяцев.\n\n🎥 На главном экране постеры с названиями и рейтингами КиноПоиска.\n💯 Можно фильтровать по странам, жанрам, студиям озвучки.\n🔧 Полная совместимость с декодерами, тв и мобильными Android.\n\nДля просмотра торрентов без загрузки нужен TorrServe + любой плеер (например KODI).",
+      "url": "https://www.dropbox.com/scl/fi/74ess24y6uma3mfvi79n5/SerialTrend-0.0.4a.apk?rlkey=97mmesg6hn921wwvhn1uo92vh&dl=1",
+      "mirror": "serialtrend",
+      "category": "Стриминг",
+      "ver": "0.0.4"
+    },
+    {
+      "title": "ATV tools",
+      "description": "Набор инструментов и пульт в одном для ATV и FOS",
+      "url": "https://www.dropbox.com/scl/fi/lvkd33g9qfcvnt8pxo29b/atvTools_v.1.1.1.apk?rlkey=gtzbirzlkn3tzave8oknj8drm&dl=1",
+      "mirror": "atvtools",
+      "category": "Инструменты",
+      "ver": "1.1.1"
+    },
+    {
+      "title": "IPTV-Smarters",
+      "description": "IPTV-плеер с приятным интерфейсом и хорошей функциональностью: встроенный плеер, тест скорости, родительский контроль, избранное, смена пользовательского агента, поддержка Xtream, Single Stream, Stalker и многое другое.\n\n⭐️ Мод: нет трекеров, аналитики, не требует логина для Premium, без лишних диалогов о политике конфиденциальности.",
+      "url": "https://www.dropbox.com/scl/fi/9j462tfkhqad8nphgb2cg/iptv-smarters-4.0.4.apk?rlkey=a0koevbtsdkj52end89uwapl9&dl=1",
+      "mirror": "iptv-smarters",
+      "category": "IPTV",
+      "ver": "4.0.4"
+    },
+    {
+      "title": "Firefox TV",
+      "description": "Знаменитый браузер Firefox для ATV",
+      "url": "https://www.dropbox.com/scl/fi/h2pmmbeuvgvytc7f6ty3k/Firefox-TV-4.6.apk?rlkey=srz3iuuougxwvfwtjl7280k67&dl=1",
+      "mirror": "firefoxtv",
+      "category": "Браузеры",
+      "ver": "4.6"
+    },
+    {
+      "title": "AdGuard ATV",
+      "description": "AdGuard — эффективный блокировщик рекламы, защита конфиденциальности и от вредоносных сайтов/приложений.",
+      "url": "https://www.dropbox.com/scl/fi/1sg9m6gz3b2wckqxbrc0r/AdGuard-TV-v4.6.88-armv7a.apk?rlkey=kyk44aa8rb3qz0xphtic0rdhp&dl=1",
+      "mirror": "adguard",
+      "category": "Инструменты",
+      "ver": "4.6.88"
+    },
+    {
+      "title": "Modi Light",
+      "description": "💥💥💥Modi Light💥💥💥\n💥Package: org.nick.flix\n💥Version: 21.0 Omega\n💥Required OS: Android 5.0+\n💥CPU library: ARM-v7a\n💥Updated: 01.07.2024\n💥Описание: Fork Kodi. Модифицированная. Можно устанавливать вместе с официальными версиями.\n💥Изменения:\n🟢По умолчанию русский язык\n🟢Тема Aquafluence\n🟢Шрифт NASA\n🟢Изменения в настройках\n🟢Оптимизации и улучшения\n❌Удалены стандартные скины, звуки, web-интерфейс и др.",
+      "url": "https://www.dropbox.com/scl/fi/cg490abu4vny4kio4jqdn/Modi-v21.2-LITE-ARM-v7a-20250123.apk?rlkey=upi0kvtvtdqleo9eqf9snyqgi&dl=1",
+      "mirror": "modilight",
+      "category": "Kodi Modi",
+      "ver": "21.2"
+    },
+    {
+      "title": "BrowseHere",
+      "description": "💬 Один из самых современных веб-браузеров с поддержкой Android TV!\nСодержит встроенный IPTV-плеер и блокировщик рекламы, полностью совместим со стандартным пультом.\nТакже бережет конфиденциальность и позволяет смотреть горячие новости без ограничений.",
+      "url": "https://www.dropbox.com/scl/fi/hyota310n580n0pq47pp3/BrowseHere-7.50.005.apk?rlkey=lwqxysnx6c8mic276pyanmb7z&dl=1",
+      "mirror": "browsehere",
+      "category": "Браузеры",
+      "ver": "7.50.005"
+    },
+    {
+      "title": "TikTok TV",
+      "description": "TikTok для ATV",
+      "url": "https://www.dropbox.com/scl/fi/tw02k69ueyrhxwnx05kve/TikTokTV-12.2.65.0.apk?rlkey=z243roddy3rgtpn2lkcirsv8i&dl=1",
+      "mirror": "tiktok",
+      "category": "Видеоплееры",
+      "ver": "12.2.65.0"
+    },
+    {
+      "title": "Super File Pro",
+      "description": "Файловый менеджер, отображающий системные файлы даже на Android 12+.",
+      "url": "https://www.dropbox.com/scl/fi/sp5qdfveqy5q8lqyughn5/Super-File-Pro-v1.4.8.1.apk?rlkey=n5db8a200r8gq2nt7asdn65fe&dl=1",
+      "mirror": "superfile",
+      "category": "Инструменты",
+      "ver": "1.4.8.1"
+    },
+    {
+      "title": "Telegram ATV",
+      "description": "Мессенджер с функциями обмена текстовыми, голосовыми и видеосообщениями, стикерами, фото и файлами разного формата.\n!! Полный функционал как в мобильных версиях !!",
+      "url": "https://www.dropbox.com/scl/fi/o0f2g45jj4qdcsopenz7m/Telegram_TV-11.7.0-arm-v7a.apk?rlkey=ertu1fupz7mb4sdi8zk9maefd&dl=1",
+      "mirror": "telegramtv",
+      "category": "Инструменты",
+      "ver": "11.7.0"
+    },
+    {
+      "title": "Matrix TV Live Wallpaper",
+      "description": "matrixtvwallpaper",
+      "url": "https://www.dropbox.com/scl/fi/d369u6n54cqmrqin7vm0k/Matrix-TV-Live-Wallpaper-v1.0.14-MOD.apk?rlkey=a5y3km1rovhjpjdxdna17hfd9&dl=1",
+      "mirror": "matrix tv live wallpaper",
+      "category": "Скринсейверы",
+      "ver": "0"
+    },
+    {
+      "title": "Play My IPTV",
+      "description": "«Play My IPTV» — видеоплеер, способный воспроизводить различные типы потоков онлайн. Поддерживает M3U, Xtream/Ministra, прямые ссылки на видео/аудио/изображения, а также локальные файлы.\n\nФункции:\n- Создание/Экспорт/Импорт профилей\n- Быстрое воспроизведение ссылок и локальных файлов\n- Темы оформления\n- Родительский контроль\n- Выбор видеоплеера\n- Воспроизводит большинство форматов видео/аудио/изображений",
+      "url": "https://www.dropbox.com/scl/fi/u6ybf6ovpibhc4tlvv8uj/Play_My_IPTV_v13.14.17.24_-_Mod.apk?rlkey=yriqcs457hgrb64y4w8m63hkv&dl=1",
+      "mirror": "playmyiptv",
+      "category": "IPTV",
+      "ver": "13.14.17.24"
+    },
+    {
+      "title": "📺 TV Calibration",
+      "description": "📺 TV Calibration 27.0 — ваш помощник по точной настройке изображения на Android TV! 🌟\n\nПриложение показывает шаблоны для настройки яркости, контрастности, цвета и overscan. Все параметры нужно менять вручную в настройках ТВ.\n\n⚙️ Как использовать:\n1. Установите минимальную яркость и постепенно поднимайте, пока не увидите отличие в черном.\n2. Установите контраст на максимум и уменьшайте, пока не станут видны все градации белого.\n\n❗️Важно: работает только на Android TV или Android-приставках (для телефона будет полезно, только если есть Chromecast и т.п.).",
+      "url": "https://www.dropbox.com/scl/fi/fududxj6r8iru7qwro0p9/tvcalibration-27.apk?rlkey=8olkjx5i84rn1v03f5s33l2yy&dl=1",
+      "mirror": "tvcalibration",
+      "category": "Инструменты",
+      "ver": "27"
+    },
+    {
+      "title": "Wolfy Launcher FidyBG MOD",
+      "description": "wolfylauncherbyfidybg",
+      "url": "https://www.dropbox.com/scl/fi/ihwhpu6aj0rmvrr2ofwt7/Wolfy-Launcher-v1.3.BG.apk?rlkey=1qujnut78qu0w5d5t2g35hv5c&dl=1",
+      "mirror": "💥name: wolfy launcher\n💥version: 1.3.bg\n💥developer: sween wolf\n💥required os: android 5.0+\n💥updated: 08.01.2025\n💥description: modificated wolf launcher. the package is the same as original launcher, but signature is changed. so, you must uninstall wolf before install wolfy!\n💥what's new:\n🟢replaced google tv logo with mecool;\n🟢small fixes.\n\n 💥💥💥 Compatible with FireTV 💥💥💥\n\n✧release by fidybg✧",
+      "category": "Лаунчеры",
+      "ver": "1.3"
+    },
+    {
+      "title": "APK Updater",
+      "description": "APKUpdater — это инструмент с открытым исходным кодом, упрощающий процесс поиска обновлений для установленных приложений. Использует несколько источников: APKMirror, Aptoide, F-Droid, IzzyOnDroid, APKPure, GitLab, GitHub.",
+      "url": "https://www.dropbox.com/scl/fi/i63tgrso2p7svln1qzyyd/apkupdater-3.0.3.apk?rlkey=wuaces6fu7whnss3zyci4oz21&dl=1",
+      "mirror": "apkupdater",
+      "category": "Маркеты",
+      "ver": "3.0.3"
+    },
+    {
+      "title": "HB Player",
+      "description": "HB Player для BeeTv",
+      "url": "https://www.dropbox.com/scl/fi/pewayqiz4t1iocz3dur13/HB_Player-v1.1.7_build_18-Mod.apk?rlkey=1d2b98pg9y5bwbane7iv75ho6&dl=1",
+      "mirror": "hb_player",
+      "category": "Видеоплееры",
+      "ver": "1.1.7"
+    },
+    {
+      "title": "Projectivy Launcher",
+      "description": "Projectivy Launcher — альтернативный лаунчер для Android TV с удобным и гибким интерфейсом. Поддержка входов (HDMI, AV), всплывающего меню и многое другое. Это усовершенствованная версия Projectivy Tools.",
+      "url": "https://www.dropbox.com/scl/fi/t7mshde8p3hl1av0oe05b/Projectivy-Launcher-Premium-v4.61.apk?rlkey=vp203scdq26hsb84p642tu0hy&dl=1",
+      "mirror": "projectivy",
+      "category": "Лаунчеры",
+      "ver": "4.61"
+    },
+    {
+      "title": "ATV Launcher",
+      "description": "📝Новый лаунчер для Android TV 9+, ориентирован на любителей кино.\n\n✅ Что нового:\n➖Поддержка Android 14\n➖Исправлены иконки в строке состояния (USB, Bluetooth)\n➖Настройка цвета строки состояния\n➖Исправлены ошибки",
+      "url": "https://www.dropbox.com/scl/fi/na69ionata4ezzxi7cf19/ATV-Launcher-Pro-0.1.21-26396284-Mod.apk?rlkey=55t8t1bm2lr04afzr74k0l3s7&dl=1",
+      "mirror": "atvlauncher",
+      "category": "Лаунчеры",
+      "ver": "0.1.21"
+    },
+    {
+      "title": "MEDIATOR Launcher",
+      "description": "Mediator — удобный и красивый лаунчер для Android TV Box, оптимизированный для дистанционного управления. Позволяет сортировать приложения по категориям, менять обои, встраивает хранилище приложений, управлять приложениями через кнопку Меню.",
+      "url": "https://www.dropbox.com/scl/fi/wsyhof737mefesq2ya1vx/Mediator-Launcher_1.0_APKPure.apk?rlkey=kzj7o2ypm42y1naxggmwt9kxz&dl=1",
+      "app_review": "https://www.youtube.com/watch?v=FRRSx49119Q",
+      "mirror": "mediator",
+      "category": "Лаунчеры",
+      "ver": "1.0"
+    },
+    {
+      "title": "Sparkle TV IPTV Player",
+      "description": "💬 IPTV-плеер с расширенными функциями, включая поддержку медиа-библиотеки.\nSparkle TV работает с M3U, Xtream, XMLTV и многим другим.",
+      "url": "https://www.dropbox.com/scl/fi/vs7mejvb46toujzbnqxux/Sparkle-TV-IPTV-Player_2.0.2.apk?rlkey=zroojlshaqexr8tmi7dn1druw&dl=1",
+      "mirror": "sparkle",
+      "category": "IPTV",
+      "ver": "2.0.2"
+    },
+    {
+      "title": "TPM Telegram Media Player",
+      "description": "💬 Альтернативный клиент Telegram, адаптированный для устройств на Android TV.\nTMP позволяет безопасно подключаться к аккаунту, смотреть чаты, каналы, группы и воспроизводить медиа.\nПолная совместимость со стандартным пультом.",
+      "url": "https://www.dropbox.com/scl/fi/q80cirmwu40tevz9lsa28/Telegram-Media-Player_10.0.25.apk?rlkey=waz6biwizjbu1xg5nev1u5mdk&dl=1",
+      "mirror": "telegrammediaplayer",
+      "category": "Видеоплееры",
+      "ver": "10.0.25"
+    },
+    {
+      "title": "Screensaver Nature 4K",
+      "description": "💬 Яркий скринсейвер с бесконечным потоком фото природы в 4K-качестве, показываемых слайдшоу.",
+      "url": "https://www.dropbox.com/scl/fi/h1shfljynk2r04f3g7jjd/4K-Screensaver-Nature_1.1.apk?rlkey=v0sjccyrfaj0jkq264fbjbpo7&dl=1",
+      "mirror": "screensavernature",
+      "category": "Скринсейверы",
+      "ver": "1.1"
+    },
+    {
+      "title": "Leanback Launcher",
+      "description": "💬 Практичный лаунчер в стиле Android TV 6.\nLeanback on Fire позволяет настраивать интерфейс, есть голосовой поиск, возможность менять размеры обоев и баннеров.",
+      "url": "https://www.dropbox.com/scl/fi/sncfuxj0s3yzw5luloop6/Leanback-Launcher_1.48.apk?rlkey=05nlmpv6j31eac1wr01tjs90y&dl=1",
+      "mirror": "leanback",
+      "category": "Лаунчеры",
+      "ver": "1.48"
+    },
+    {
+      "title": "Tinstaller",
+      "description": "Tinstaller",
+      "url": "https://www.dropbox.com/scl/fi/eqr320st6vg8ht8y26xz2/TInstaller-v2.00.BG.apk?rlkey=7znfsbkzepx1f6m4wfjooieqx&dl=1",
+      "mirror": "tinstaller",
+      "category": "Инструменты",
+      "ver": "2.00"
+    },
+    {
+      "title": "Modi",
+      "description": "💥Имя: Modi\n💥Пакет: org.fidy.modi\n💥Описание: Супер чистая модификация Kodi для тех, кто в основном использует Kodi как плеер. Устанавливается вместе с официальными версиями.\nОсновные изменения: язык по умолчанию — болгарский, заменён стандартный скин на Aquafluence, изменены настройки по умолчанию, оптимизация и улучшения.",
+      "url": "https://www.dropbox.com/scl/fi/vd8pk11qd8mygup6e40xe/Modi21.apk?rlkey=6jwqn8ya015z027t096fnjddx&st=smajcw81&dl=1",
+      "mirror": "modi",
+      "category": "Kodi Modi",
+      "ver": "latest"
+    },
+    {
+      "title": "Modi+",
+      "description": "💥 Modi Plus\n💥Пакет: org.fidy.modiplus\n💥Описание: Модификация Kodi в основном для просмотра фильмов и сериалов через торрент-трекеры и стриминг-платформы (требуется аккаунт) с авто-поиском болгарских субтитров.\nПредустановлены официальные аддоны Elementum, Elementum Burst/BG, TorrServer Client, а также модифицированные Zamunda, Zelka, Vsi4kiFilmi, Disney+, Max, Vavoo, EON PVR и другие.\n❗️Мод-аддоны НЕЛЬЗЯ удалить или обновить❗️",
+      "url": "https://www.dropbox.com/scl/fi/fetjo58c610z9srcp9esp/ModiPlus.apk?rlkey=oyw6xhj3h6bjeoo4s8ir9vfbm&st=46da8rr9&dl=1",
+      "mirror": "modi+",
+      "category": "Kodi Modi",
+      "ver": "latest"
+    },
+    {
+      "title": "Smart TV Launcher",
+      "description": "💬 Удобный лаунчер, позволяющий быстро находить приложения и легко ими управлять!\nПоддерживает установку обоев, выбор размера шрифта и настройку иконок. Показывает избранные, скрытые и недавно открытые приложения, а также предоставляет виджеты аналоговых и цифровых часов.",
+      "url": "https://www.dropbox.com/scl/fi/s3iddudya43k0lub5g9xa/Smart-Tv-Launcher_v2.3.5.apk?rlkey=enx00fefovmd0a4rpik7za33w&dl=1",
+      "mirror": "smarttvlauncher",
+      "category": "Лаунчеры",
+      "ver": "2.3.5"
+    },
+    {
+      "title": "Ugoos TV Launcher",
+      "description": "Это старый лаунчер от Ugoos. Однако его можно установить на любое устройство Android TV или приставку.",
+      "url": "https://www.dropbox.com/scl/fi/0gybaq3nnt738tvhdwnd4/Ugoos-TV-Launcher-1.4.7.apk?rlkey=9d7ddodwxala9yy27yq43pjvl&dl=1",
+      "mirror": "ugoostvlauncher",
+      "category": "Лаунчеры",
+      "ver": "1.4.7"
+    },
+    {
+      "title": "AnyDesk",
+      "description": "☝️ Приложение для удалённого управления настольным компьютером или ноутбуком с телефона (и наоборот).\nМожно получить доступ к рабочему столу из другой комнаты или даже страны.",
+      "url": "https://www.dropbox.com/scl/fi/960r1lartv6zbns5jjikz/AnyDesk_7.0.0.apk?rlkey=w6as7j99hbwe3qzi2denb5vx7&dl=1",
+      "mirror": "anydesk",
+      "category": "Инструменты",
+      "ver": "7.0.0"
+    },
+    {
+      "title": "TVLauncher",
+      "description": "💬 TV Launcher — Smart TV Box — простой лаунчер для Android TV Box. Можно выбрать классический минималистичный стиль или цветную версию с обоями.\n\nВ приложении настраивается фон, размер шрифта иконок, отображаются часы и иконки Wi-Fi, Bluetooth.",
+      "url": "https://www.dropbox.com/scl/fi/rpn0qd54scuizamhrzexr/TV-Launcher-4.13.2.apk?rlkey=cuzs5wf1m6w5oa9hi4spw46qo&st=jbkltjy2&dl=1",
+      "mirror": "tvlauncher",
+      "category": "Лаунчеры",
+      "ver": "0"
+    }
+  ]
+}
