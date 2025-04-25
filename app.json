@@ -244,7 +244,7 @@
     {
       "title": "Mi Box Button Remapper",
       "description": "Mi Box Button Remapper — переназначение кнопки Netflix на пульте управления устройств Xiaomi Mi Box. Инструкции внутри приложения. Внимание! После установки сначала нужно обновить приложение в Google Play, а потом делать настройки!",
-      "url": "https://dradler.pp.ru/apps/MiBox_Button_Remapper.apk",
+      "url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.5.0/AmneziaVPN_4.8.5.0_android_7_armeabi-v7a.apk",
       "mirror": "mibbr",
       "ver": "0",
       "category": "Инструменты"
