@@ -10,6 +10,14 @@
       "ver": "LATEST"
     },
     {
+      "title": "Nextcloud",
+      "description": "Nextcloud - облачное хранилище",
+      "url": "https://download.nextcloud.com/android/dev/latest.apk",
+      "mirror": "Nextcloud",
+      "category": "Облачное",
+      "ver": "LATEST"
+    },
+    {
       "title": "X_project_v4",
       "description": "18+",
       "url": "https://www.dropbox.com/scl/fi/205gcb3lkkh7s6m5mnlel/app-release.apk?rlkey=tefy00w6rk0kqvchj3ssbjmst&st=uild5hym&dl=1",
